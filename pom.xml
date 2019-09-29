@@ -8,6 +8,7 @@
 	<version>1.0-SNAPSHOT</version>
 	<modules>
 		<module>01.Start-SpringBoot2</module>
+		<module>02.SpringBoot2-Configiration</module>
 	</modules>
 	<packaging>pom</packaging>
 
